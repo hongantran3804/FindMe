@@ -30,7 +30,8 @@ pip install -r requirements.txt
 
 ### Setup Mysql
 
-<a href="https://www.youtube.com/watch?v=Sfvpgu9ID2Q">Link to download mysql</a>
+<a href="https://www.youtube.com/watch?v=Sfvpgu9ID2Q">Link to download mysql</a><br />
+
 To connect with your database, make url to connect with database: mysql+pymysql://<username>:<password>@<hostname>:<port>/<database_name>
 
 ### Run main.py
